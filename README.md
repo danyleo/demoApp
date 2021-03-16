@@ -1,5 +1,5 @@
 # demoApp
-A demo app 
+A demo app to list users 
 
 # Installation
 
